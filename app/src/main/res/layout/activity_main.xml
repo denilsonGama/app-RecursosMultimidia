@@ -1,19 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginTop="40dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:textSize="50sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:onClick="recuperando_fotos_com_imageview"
+        android:text="14.1 Recuperando fotos com ImageView"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
-</android.support.constraint.ConstraintLayout>
+    <Button
+        android:onClick="utilizando_mapas_mapview"
+        android:text="14.2 Utilizando mapas: MapView"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="localizacao_do_usuario_com_location_api"
+        android:text="14.3 Localização do usuário com Location API"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse"
+        android:text="14.4 Rotas e Pontos de Interesse"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="usando_webview_em_seus_apps"
+        android:text="14.5 Usando WebView em seus Apps"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="sons_audiomanager"
+        android:text="14.6 Sons: AudioManager"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="videos_mediaplayer"
+        android:text="14.7 Vídeos: MediaPlayer"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="animacao_em_views_com_view_animation"
+        android:text="14.8 Animação em views com View Animation"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
