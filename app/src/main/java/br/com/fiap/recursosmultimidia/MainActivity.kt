@@ -51,14 +51,14 @@ class MainActivity : AppCompatActivity() {
     fun usando_webview_em_seus_apps(view: View) {
         val intent = Intent(this, Usando_WebView_em_seus_Apps::class.java)
         startActivity(intent)
-    }
+    }*/
 
     fun utilizando_mapas_mapview(view: View) {
         val intent = Intent(this, Utilizando_Mapas_MapView::class.java)
         startActivity(intent)
     }
 
-    fun videos_mediaplayer(view: View) {
+    /*fun videos_mediaplayer(view: View) {
         val intent = Intent(this, Videos_MediaPlayer::class.java)
         startActivity(intent)
     }*/
