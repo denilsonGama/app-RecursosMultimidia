@@ -1,4 +1,4 @@
-package br.com.fiap.recursosmultimdia
+package br.com.fiap.recursosmultimidia
 
 import android.content.Intent
 import android.os.Bundle
@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
          */
     }
 
-    fun animacao_em_views_com_view_animation(view: View) {
+    /*fun animacao_em_views_com_view_animation(view: View) {
         val intent = Intent(this, Animacao_em_views_com_View_Animation::class.java)
         startActivity(intent)
     }
@@ -31,14 +31,14 @@ class MainActivity : AppCompatActivity() {
     fun localizacao_do_usuario_com_location_api(view: View) {
         val intent = Intent(this, Localizacao_do_usuario_com_Location_API::class.java)
         startActivity(intent)
-    }
+    }*/
 
     fun recuperando_fotos_com_imageview(view: View) {
         val intent = Intent(this, Recuperando_Fotos_Com_ImageView::class.java)
         startActivity(intent)
     }
 
-    fun rotas_e_pontos_de_interesse(view: View) {
+    /*fun rotas_e_pontos_de_interesse(view: View) {
         val intent = Intent(this, Rotas_e_Pontos_de_Interesse::class.java)
         startActivity(intent)
     }
@@ -61,5 +61,5 @@ class MainActivity : AppCompatActivity() {
     fun videos_mediaplayer(view: View) {
         val intent = Intent(this, Videos_MediaPlayer::class.java)
         startActivity(intent)
-    }
+    }*/
 }
