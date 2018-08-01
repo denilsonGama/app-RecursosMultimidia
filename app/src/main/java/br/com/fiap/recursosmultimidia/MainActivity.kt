@@ -26,12 +26,12 @@ class MainActivity : AppCompatActivity() {
     /*fun animacao_em_views_com_view_animation(view: View) {
         val intent = Intent(this, Animacao_em_views_com_View_Animation::class.java)
         startActivity(intent)
-    }
+    }*/
 
     fun localizacao_do_usuario_com_location_api(view: View) {
         val intent = Intent(this, Localizacao_do_usuario_com_Location_API::class.java)
         startActivity(intent)
-    }*/
+    }
 
     fun recuperando_fotos_com_imageview(view: View) {
         val intent = Intent(this, Recuperando_Fotos_Com_ImageView::class.java)
