@@ -1,0 +1,102 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="40dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:orientation="vertical"
+    tools:context=".Rotas_e_Pontos_de_Interesse">
+
+    <TextView
+        android:text="Rotas entre os campus da FIAP:"
+        android:layout_marginLeft="10dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse_rota1"
+        android:text="Rota 1: Paulista até Vila Olimpia"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse_rota2"
+        android:text="Rota 2: Vila Olimpia até Vila Mariana"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse_rota3"
+        android:text="Rota 3: Vila Mariana até Paulista"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="Pontos de Interesse em Tecnologia:"
+        android:layout_marginLeft="10dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse_ponto1"
+        android:text="Museu do Catavento Cultural"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse_ponto2"
+        android:text="Sabina Escola Parque do Conhecimento"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse_ponto3"
+        android:text="Museu de Microbiologia"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse_ponto4"
+        android:text="Planetário do Ibirapuera"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="rotas_e_pontos_de_interesse_ponto5"
+        android:text="Parque Cientec"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

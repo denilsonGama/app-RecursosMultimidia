@@ -38,12 +38,12 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    /*fun rotas_e_pontos_de_interesse(view: View) {
+    fun rotas_e_pontos_de_interesse(view: View) {
         val intent = Intent(this, Rotas_e_Pontos_de_Interesse::class.java)
         startActivity(intent)
     }
 
-    fun sons_audiomanager(view: View) {
+    /*fun sons_audiomanager(view: View) {
         val intent = Intent(this, Sons_AudioManager::class.java)
         startActivity(intent)
     }
