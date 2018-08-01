@@ -19,3 +19,14 @@ Exemplo 5 capitulo 7A - FIAP - Curso ADS 2017/2018 - FASE 5 - NATIVE APP WORLD3 
     a) Criação da activity xml
     b) Implementação da classe kotlin
     c) Testes de instalação em cellular
+   
+  5) Implementação da activity Rotas e Pontos Turisticos
+    a) activity_rotas_e_pontos_de_interesse
+    b) activity_rotas_e_pontos_de_interesse_ponto1
+    c) activity_rotas_e_pontos_de_interesse_ponto2
+    d) activity_rotas_e_pontos_de_interesse_ponto3
+    e) activity_rotas_e_pontos_de_interesse_ponto4
+    f) activity_rotas_e_pontos_de_interesse_ponto5
+    g) activity_rotas_e_pontos_de_interesse_rota1
+    h) activity_rotas_e_pontos_de_interesse_rota2
+    i) activity_rotas_e_pontos_de_interesse_rota3
