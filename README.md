@@ -15,3 +15,7 @@ Exemplo 5 capitulo 7A - FIAP - Curso ADS 2017/2018 - FASE 5 - NATIVE APP WORLD3 
     b) Criaçao do arquivo google_maps_api.xml (RecursosMultimidia\RecursosMultimidia\app\src\release\res\values)
       b.1) No arquivo contem observaçoes importantes para criação de chaves da localização
     c) Uma classe kotlin com metodos de busca da localização fixa
+  4) Implementação da activity Localização do usuário com Location_API
+    a) Criação da activity xml
+    b) Implementação da classe kotlin
+    c) Testes de instalação em cellular
