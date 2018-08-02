@@ -30,3 +30,6 @@ Exemplo 5 capitulo 7A - FIAP - Curso ADS 2017/2018 - FASE 5 - NATIVE APP WORLD3 
     g) activity_rotas_e_pontos_de_interesse_rota1
     h) activity_rotas_e_pontos_de_interesse_rota2
     i) activity_rotas_e_pontos_de_interesse_rota3
+   
+   6) Implementação da activity Usando_WebView_em_seus_Apps
+    a) usando_webview_em_seus_apps.xml
