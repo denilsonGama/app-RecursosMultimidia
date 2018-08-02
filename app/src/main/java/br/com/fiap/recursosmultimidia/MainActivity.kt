@@ -46,12 +46,12 @@ class MainActivity : AppCompatActivity() {
     /*fun sons_audiomanager(view: View) {
         val intent = Intent(this, Sons_AudioManager::class.java)
         startActivity(intent)
-    }
+    }*/
 
     fun usando_webview_em_seus_apps(view: View) {
         val intent = Intent(this, Usando_WebView_em_seus_Apps::class.java)
         startActivity(intent)
-    }*/
+    }
 
     fun utilizando_mapas_mapview(view: View) {
         val intent = Intent(this, Utilizando_Mapas_MapView::class.java)

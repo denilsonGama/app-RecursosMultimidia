@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.fiap.recursosmultimidia">
-
     //-- Recuperando_Fotos_Com_ImageView
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
@@ -28,84 +27,53 @@
 
         <activity
             android:name=".Recuperando_Fotos_Com_ImageView"
-            android:label="14.1 Recuperando fotos com ImageView">
-        </activity>
-
+            android:label="14.1 Recuperando fotos com ImageView"></activity>
         <activity
             android:name=".Utilizando_Mapas_MapView"
-            android:label="14.2 Utilizando mapas: MapView">
-        </activity>
-
+            android:label="14.2 Utilizando mapas: MapView"></activity>
         <activity
             android:name=".Localizacao_do_usuario_com_Location_API"
-            android:label="14.3 Localização do usuário com Location API">
-        </activity>
-
+            android:label="14.3 Localização do usuário com Location API"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse"
-            android:label="14.4 Rotas e Pontos de Interesse">
-        </activity>
-
+            android:label="14.4 Rotas e Pontos de Interesse"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse_Rota1"
-            android:label="Rota 1: Paulista até Vila Olimpia">
-        </activity>
-
+            android:label="Rota 1: Paulista até Vila Olimpia"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse_Rota2"
-            android:label="Rota 2: Vila Olimpia até Vila Mariana">
-        </activity>
-
+            android:label="Rota 2: Vila Olimpia até Vila Mariana"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse_Rota3"
-            android:label="Rota 3: Vila Mariana até Paulista">
-        </activity>
-
+            android:label="Rota 3: Vila Mariana até Paulista"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse_Ponto1"
-            android:label="Museu do Catavento Cultural">
-        </activity>
-
+            android:label="Museu do Catavento Cultural"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse_Ponto2"
-            android:label="Sabina Escola Parque do Conhecimento">
-        </activity>
-
+            android:label="Sabina Escola Parque do Conhecimento"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse_Ponto3"
-            android:label="Museu de Microbiologia">
-        </activity>
-
+            android:label="Museu de Microbiologia"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse_Ponto4"
-            android:label="Planetário do Ibirapuera">
-        </activity>
-
+            android:label="Planetário do Ibirapuera"></activity>
         <activity
             android:name=".Rotas_e_Pontos_de_Interesse_Ponto5"
-            android:label="Parque Cientec">
-        </activity>
-
+            android:label="Parque Cientec"></activity>
         <activity
             android:name=".Usando_WebView_em_seus_Apps"
-            android:label="14.5 Usando WebView em seus Apps">
-        </activity>
-
+            android:label="14.5 Usando WebView em seus Apps"></activity>
         <activity
             android:name=".Sons_AudioManager"
-            android:label="14.6 Sons: AudioManager">
-        </activity>
-
+            android:label="14.6 Sons: AudioManager"></activity>
         <activity
             android:name=".Videos_MediaPlayer"
-            android:label="14.7 Vídeos: MediaPlayer">
-        </activity>
-
+            android:label="14.7 Vídeos: MediaPlayer"></activity>
         <activity
             android:name=".Animacao_em_views_com_View_Animation"
-            android:label="14.8 Animação em views com View Animation">
-        </activity>
-
+            android:label="14.8 Animação em views com View Animation"></activity>
+        <activity android:name="br.com.fiap.recursosmultimdia.usando_webview_em_seus_apps"></activity>
     </application>
 
 </manifest>
