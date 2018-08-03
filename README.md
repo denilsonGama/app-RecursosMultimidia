@@ -49,5 +49,10 @@ Exemplo 5 capitulo 7A - FIAP - Curso ADS 2017/2018 - FASE 5 - NATIVE APP WORLD3 
              cow.wav
             dog.wav
             google_maps_api.xml
+      
+      8) implementação da activity Videos_MediaPlayer
+        a) Criação da activity Videos_MediaPlayer
+        b) Aletarção no arquivo main actvity (descomentação da fun para abrir o video 
+       
           
 
