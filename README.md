@@ -33,3 +33,21 @@ Exemplo 5 capitulo 7A - FIAP - Curso ADS 2017/2018 - FASE 5 - NATIVE APP WORLD3 
    
    6) Implementação da activity Usando_WebView_em_seus_Apps
     a) usando_webview_em_seus_apps.xml
+   
+   7) Implementação da activity activity_sons_audiomanager
+    a) Criação da activity activity_sons_audiomanager
+    b) Criação de pastas com images e sons
+        b.1) Android Studio\Projetos\RecursosMultimidia\app\src\main\res\drawable
+        b.2) Android Studio\Projetos\RecursosMultimidia\app\src\main\res\raw
+    c) Realizado commit de pastas faltantes das activitys
+        c.1) localizacao_do_usuario_com_location_api.kt
+             recuperando_fotos_com_imageview.kt
+             usando_webview_em_seus_apps.kt
+             drawable/cow.png
+             drawable/dog.png
+             activity_sons_audiomanager.xml
+             cow.wav
+            dog.wav
+            google_maps_api.xml
+          
+
