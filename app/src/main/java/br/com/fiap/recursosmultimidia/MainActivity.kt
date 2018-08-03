@@ -58,8 +58,8 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    /*fun videos_mediaplayer(view: View) {
+    fun videos_mediaplayer(view: View) {
         val intent = Intent(this, Videos_MediaPlayer::class.java)
         startActivity(intent)
-    }*/
+    }
 }
