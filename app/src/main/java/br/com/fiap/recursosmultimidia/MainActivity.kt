@@ -43,10 +43,10 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    /*fun sons_audiomanager(view: View) {
+    fun sons_audiomanager(view: View) {
         val intent = Intent(this, Sons_AudioManager::class.java)
         startActivity(intent)
-    }*/
+    }
 
     fun usando_webview_em_seus_apps(view: View) {
         val intent = Intent(this, Usando_WebView_em_seus_Apps::class.java)
