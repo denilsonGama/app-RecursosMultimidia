@@ -75,7 +75,8 @@
             android:label="14.8 Animação em views com View Animation" />
         <activity android:name="br.com.fiap.recursosmultimdia.usando_webview_em_seus_apps" />
         <activity android:name=".sons_audiomanager" />
-        <activity android:name="br.com.fiap.recursosmultimdia.videos_mediaplayer"></activity>
+        <activity android:name="br.com.fiap.recursosmultimdia.videos_mediaplayer" />
+        <activity android:name=".animacao_em_views_com_view_animation"></activity>
     </application>
 
 </manifest>

@@ -21,17 +21,17 @@ class Sons_AudioManager : AppCompatActivity() {
 
     fun soundCow(view: View) {
 
-        if(dog != null) {
+       /* if(dog != null) {
             dog!!.stop()
-        }
+        }*/
         cow!!.start()
     }
 
     fun soundDog(view: View) {
 
-        if(cow != null) {
+      /*  if(cow != null) {
             cow!!.stop()
-        }
+        }*/
         dog!!.start()
     }
 }
