@@ -52,7 +52,11 @@ Exemplo 5 capitulo 7A - FIAP - Curso ADS 2017/2018 - FASE 5 - NATIVE APP WORLD3 
       
       8) implementação da activity Videos_MediaPlayer
         a) Criação da activity Videos_MediaPlayer
-        b) Aletarção no arquivo main actvity (descomentação da fun para abrir o video 
+        b) Alteração no arquivo main actvity (descomentação da fun para abrir o video
+      
+      9) Implementaçãço da actvity animação
+        a) Animacao_em_views_com_View_Animation
+      10) Finalização do exercicio
        
           
 
